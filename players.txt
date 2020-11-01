@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Player Page</title></head>
+    <body>
+        <form action="players" method="POST">
+            <div><input type="text" name="player" autofocus/></div>
+            <div><button type ="submit">Delete!</button></div>
+        </form>
+        <h1>List of all Players!</h1>
+        <ul>
+<li>olo</li>
+<li>Bushra</li>
+<li>player</li>
+<li>new player</li>
+<li>Bushra</li>        
+<li>Khalilo</li>
+<li>mjigo</li>
+<li>lo</li>
+<li>as</li>    
+<li>lo</li>      
+<li>neu</li>       
+<li>letzte</li>
+<li>jo</li>
+        </ul>
+    </body> 
+</html>
